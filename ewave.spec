@@ -20,7 +20,8 @@ URL:		http://ewave.seul.org/
 BuildRequires:	rpmbuild(macros) >= 1.228
 Requires(post,preun):	/sbin/chkconfig
 %endif
-#BuildRequires:	-
+BuildRequires:	fltk-devel >= 1.0.6
+BuildRequires:	guile-devel >= 1.3.2
 #BuildRequires:	autoconf
 #BuildRequires:	automake
 #BuildRequires:	intltool
