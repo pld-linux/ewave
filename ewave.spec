@@ -1,5 +1,5 @@
 Summary:	Extreme Wave - feature rich, extensible 3D modeling enviroment
-Summary(pl):	Extreme Wave - bogate w moøliwo∂ci, rozszerzalne ∂rodowisko do modelowania 3D
+Summary(pl.UTF-8):   Extreme Wave - bogate w mo≈ºliwo≈õci, rozszerzalne ≈õrodowisko do modelowania 3D
 Name:		ewave
 Version:	0.4.0
 Release:	0.1
@@ -16,9 +16,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Extreme Wave is an ambitious project to create a feature rich,
 extensible 3D modeling environment.
 
-%description -l pl
-Extreme Wave to ambitny projekt stworzenia bogatego w moøliwo∂ci,
-rozszerzalnego ∂rodowiska do modelowania 3D.
+%description -l pl.UTF-8
+Extreme Wave to ambitny projekt stworzenia bogatego w mo≈ºliwo≈õci,
+rozszerzalnego ≈õrodowiska do modelowania 3D.
 
 %prep
 %setup -q
