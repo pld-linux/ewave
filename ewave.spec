@@ -1,5 +1,5 @@
 Summary:	Extreme Wave - feature rich, extensible 3D modeling enviroment
-Summary(pl.UTF-8):   Extreme Wave - bogate w możliwości, rozszerzalne środowisko do modelowania 3D
+Summary(pl.UTF-8):	Extreme Wave - bogate w możliwości, rozszerzalne środowisko do modelowania 3D
 Name:		ewave
 Version:	0.4.0
 Release:	0.1
